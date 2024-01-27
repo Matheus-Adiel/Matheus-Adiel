@@ -1,3 +1,3 @@
 ### HI!! 
 [![Adiel._.'s GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Matheus-Adiel&show_icons=true&theme=great-gatsby#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Adiel._.'s GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Matheus-Adiel&show_icons=true&theme=slateorange#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Adiel._.'s GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Matheus-Adiel&show_icons=true&theme=great-gatsby&bg_color=fff#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
