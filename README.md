@@ -5,22 +5,10 @@
 </div>
 
 ```diff
-# hello
-- hello
-+ hello
-> hello
-< hello
-! hello
-? hello
-$ hello
-% hello 
-& hello
-* hello
-(hello)
-[hello]
-{hello}
-_ hello
-= hello
+# testing this color
+> testing this color
+< testing this color
+! testing this color
 ```
 
 <div> 
