@@ -20,5 +20,5 @@
 <br>
 
 <div align="left">
-    <h2>My language:</h2>
+    <h5>My language:</h5>
 </div>
