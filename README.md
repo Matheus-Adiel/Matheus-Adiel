@@ -19,6 +19,6 @@
 <br>
 <br>
 
-<div align="left">
-    <h5>My language:</h5>
+<div>
+    <h5 align="left">My language:</h5>
 </div>
