@@ -9,9 +9,14 @@
 < testing this color
 ! testing this color
 ```
-<div>
-    <h4><b>📖 K N O L E G E S :</b></h4>
-</div>
+
+<h3>📖 K N O L E G E S :</h3>
+
+<p>
+    <a href="https://skillicons.dev">
+        <img height="42px" src="https://skillicons.dev/icons?i=javascript,html,css,git,github,c,python,aws"/>
+    </a>
+</p>
 
 <div> 
     <img align="left" height="173rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-adiel&layout=compact&langs_count=7&theme=great-gatsby&bg_color=0D1117&hide_border=true"/>
