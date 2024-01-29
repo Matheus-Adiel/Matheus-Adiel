@@ -10,8 +10,7 @@
 ! testing this color
 ```
 <div>
-    <img align="left" height="21px" src="https://icones.pro/wp-content/uploads/2021/03/symbole-du-livre-jaune.png">
-    <h3 style="color: red">K N O L E G E S :</h3>
+    <h3>📖 K N O L E G E S :</h3>
 </div>
 
 <div> 
