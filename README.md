@@ -11,7 +11,7 @@
 ```
 <div>
     <img align="left" height="21px" src="https://icones.pro/wp-content/uploads/2021/03/symbole-du-livre-jaune.png">
-    <h3 style="margin: 0px">K N O L E G E S :</h3>
+    <p style="margin: 0px">K N O L E G E S :</p>
 </div>
 
 <div> 
