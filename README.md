@@ -4,10 +4,15 @@
 </div>
 
 ```diff
-# testing this color
-> testing this color
-< testing this color
-! testing this color
+! Matheus Adiel;
+
+# aprecie esse cafezinho enquanto explora o meu perfil;
+
+> gosto de jogos, filmes, séries, animes, livros;
+> me divirto ao descobrir novas tecnologias;
+
+< estudante da UFCG;
+< cursando ciências da computação;
 ```
 
 <h3>📖 K N O L E G E S :</h3>
