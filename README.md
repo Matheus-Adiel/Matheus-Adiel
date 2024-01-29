@@ -10,7 +10,7 @@
 ! testing this color
 ```
 <div>
-    <h4><b>📖 K N O L E G E S :</b></h4>
+    <h4>📖 K N O L E G E S :</h4>
 </div>
 
 <div> 
