@@ -6,7 +6,7 @@
 ```diff
 ! Matheus Adiel;
 
-# aprecie esse cafezinho enquanto explora o meu perfil;
+# saboreie esse cafezinho enquanto explora meu perfil;
 
 > gosto de jogos, filmes, séries, animes, livros;
 > me divirto ao descobrir novas tecnologias;
