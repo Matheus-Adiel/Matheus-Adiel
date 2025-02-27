@@ -19,7 +19,7 @@
 
 <p>
     <a href="https://skillicons.dev">
-        <img height="42px" src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,git,github,aws,clojure"/>
+        <img height="42px" src="https://skillicons.dev/icons?i=python,c,java,javascript,clojure,html,css,git,github,aws"/>
     </a>
 </p>
 
