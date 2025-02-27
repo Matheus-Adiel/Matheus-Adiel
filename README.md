@@ -19,7 +19,7 @@
 
 <p>
     <a href="https://skillicons.dev">
-        <img height="42px" src="https://skillicons.dev/icons?i=python,c,java,javascript,clojure,html,css,git,github,aws"/>
+        <img height="42px" src="https://skillicons.dev/icons?i=python,c,java,clojure,javascript,html,css,git,github,aws"/>
     </a>
 </p>
 
@@ -27,5 +27,6 @@
 
 <div> 
     <img align="left" height="145rem" src="https://github-readme-stats.vercel.app/api?username=Matheus-adiel&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=false&bg_color=0D1117&text_bold=false&hide_border=true&hide_title=true"/>
+
     <img align="right" height="142rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-adiel&layout=compact&langs_count=7&theme=great-gatsby&bg_color=0D1117&hide_border=true&hide_title=true"/>
 </div>
